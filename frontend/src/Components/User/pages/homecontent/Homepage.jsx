@@ -113,7 +113,7 @@ const Homepage = () => {
               color: '#1a1a1a'
             }}
           >
-            Why Choose Health Haven?
+            Why Choose Health Plus?
           </Typography>
           
           <Grid container spacing={4}>

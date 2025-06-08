@@ -49,17 +49,15 @@ const ContactUsPage = () => {
         <Grid container spacing={2} alignItems="center">
           <Grid item xs={12} sm={6}>
             <Box display="flex" alignItems="center">
-              <Email sx={{ mr: 1 }} />
-              <Typography variant="body1">
-                Email: bastolaronak12@gmail.com
+              <Email sx={{ mr: 1 }} />              <Typography variant="body1">
+                Email: nafisrayan@gmail.com
               </Typography>
             </Box>
           </Grid>
           <Grid item xs={12} sm={6}>
             <Box display="flex" alignItems="center">
-              <Phone sx={{ mr: 1 }} />
-              <Typography variant="body1">
-                Phone: +977-9862164447
+              <Phone sx={{ mr: 1 }} />              <Typography variant="body1">
+                Phone: +1 (234) 567-8900
               </Typography>
             </Box>
           </Grid>
@@ -72,17 +70,15 @@ const ContactUsPage = () => {
           <Grid container spacing={2} alignItems="center">
             <Grid item xs={12} sm={6}>
               <Box display="flex" alignItems="center">
-                <LocationOn sx={{ mr: 1 }} />
-                <Typography variant="body1">
-                  Kathmandu
+                <LocationOn sx={{ mr: 1 }} />                <Typography variant="body1">
+                  New York
                 </Typography>
               </Box>
             </Grid>
             <Grid item xs={12} sm={6}>
               <Box display="flex" alignItems="center">
-                <LocationOn sx={{ mr: 1 }} />
-                <Typography variant="body1">
-                Baneshwor
+                <LocationOn sx={{ mr: 1 }} />                <Typography variant="body1">
+                Downtown
                 </Typography>
               </Box>
             </Grid>

@@ -30,7 +30,7 @@ function Copyright(props) {
     return (
         <Typography variant="body2" color="text.secondary" align="center" {...props}>
             {'Developed with 🖤 by '}
-            <strong><a className='text-style' href="#" target="_blank" rel="noreferrer noopener">bastolaronak</a> </strong>{'Copyright ©'}
+            <strong><a className='text-style' href="https://github.com/NafisRayan" target="_blank" rel="noreferrer noopener">Nafis Rayan</a> </strong>{'Copyright ©'}
             {new Date().getFullYear()}
             {'.'}
         </Typography>
@@ -58,7 +58,7 @@ const Footer = () => {
                                             color='primary'
                                             fontSize='large' />
                                     </Avatar>
-                                    Health Haven Hospital
+                                    Health Plus Hospital
                                 </Typography>
                                 <Divider />
                             </Box>
@@ -69,7 +69,7 @@ const Footer = () => {
                                 spacing={1} >
                                 <Avatar sx={{ mt: 1, bgcolor: pink[500] }}>
                                     <LocationOnIcon />
-                                </Avatar><span>kathmandu ,Nepal</span>
+                                </Avatar><span>New York, USA</span>
                             </Stack >
 
                             <Stack direction="row"
@@ -78,9 +78,8 @@ const Footer = () => {
                                 spacing={1} >
                                 <Avatar sx={{ mb: 1, mt: 1, bgcolor: pink[500] }}>
                                     <EmailIcon />
-                                </Avatar>
-                                <a className='text-style' href="mailto:bastolaronak12@gmail.com">
-                                bastolaronak12@gmail.com
+                                </Avatar>                                <a className='text-style' href="mailto:nafisrayan@gmail.com">
+                                nafisrayan@gmail.com
                                 </a>
                             </Stack >
 
@@ -90,9 +89,8 @@ const Footer = () => {
                                 spacing={1} >
                                 <Avatar sx={{ mb: 1, bgcolor: pink[500] }}>
                                     <CallIcon />
-                                </Avatar>
-                                <a className='text-style' href="tel:01680xxx86">
-                                +977-9862164447
+                                </Avatar>                                <a className='text-style' href="tel:+1234567890">
+                                +1 (234) 567-8900
                                 </a>
                             </Stack >
 

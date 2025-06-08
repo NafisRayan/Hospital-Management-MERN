@@ -57,9 +57,9 @@
 //         will be happy to assist you.
 //       </Typography>
 //       <Typography variant="body1" paragraph>
-//         Phone: +977-9862164447
+//         Phone: +1 (234) 567-8900
 //         <br />
-//         Email:  bastolaronak12@gmail.com
+//         Email:  nafisrayan@gmail.com
 //       </Typography>
 //     </Container>
 //   );
@@ -146,9 +146,9 @@ const AboutUs = () => {
         will be happy to assist you.
       </SectionTypography>
       <SectionTypography variant="body1" paragraph>
-        Phone: +977-9862164447
+        Phone: +1 (234) 567-8900
         <br />
-        Email: bastolaronak12@gmail.com
+        Email: nafisrayan@gmail.com
       </SectionTypography>
     </Container>
   );

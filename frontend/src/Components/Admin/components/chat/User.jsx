@@ -4,18 +4,18 @@ const User = () => {
   return (
     <div className="chats">
          <div className="userchat">
-        <span>Niroj</span>
+        <span>John</span>
         <p>online</p>
 
     </div>
 
     <div className="userchat">
-        <span>Niroj</span>
+        <span>Sarah</span>
         <p>online</p>
 
     </div>
     <div className="userchat">
-        <span>Niroj</span>
+        <span>Mike</span>
         <p>online</p>
 
     </div>
